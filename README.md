@@ -1,4 +1,1 @@
-Fotokosh
-========
-
-Mat dekho isse ! Yeh private hai !
+A Photo sharing app based on Ruby on Rails which follows twitter like relationship between users where a user can follow/unfollow to see/not see the photos uploaded by other users. A user can also see a list of all the users on the app.
